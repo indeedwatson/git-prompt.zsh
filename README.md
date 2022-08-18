@@ -82,7 +82,7 @@ Some example `PROMPT` configurations are given below.
 You can find more information on how to configure the `PROMPT` in [Zsh's online documentation](http://zsh.sourceforge.net/Doc/Release/Prompt-Expansion.html) or the `zshmisc` manpage, section "SIMPLE PROMPT ESCAPES".
 
 ### Examples
-You can try these configurations by souring the `.zsh` files from the [examples](./examples) directory.
+You can try these configurations by sourcing the `.zsh` files from the [examples](./examples) directory.
 After you have found a configuration that you like, source it in your `.zshrc`.
 
 #### Default (same as in title)
